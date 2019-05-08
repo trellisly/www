@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/www/static/css/main.8bf58a82.chunk.css",
-    "main.js": "/www/static/js/main.4481fd36.chunk.js",
-    "main.js.map": "/www/static/js/main.4481fd36.chunk.js.map",
-    "runtime~main.js": "/www/static/js/runtime~main.d6b53820.js",
-    "runtime~main.js.map": "/www/static/js/runtime~main.d6b53820.js.map",
-    "static/js/2.b41502e9.chunk.js": "/www/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/www/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/www/index.html",
-    "precache-manifest.24557b1f3ddb9fc3782e1a41bd2d2ec1.js": "/www/precache-manifest.24557b1f3ddb9fc3782e1a41bd2d2ec1.js",
-    "service-worker.js": "/www/service-worker.js",
-    "static/css/main.8bf58a82.chunk.css.map": "/www/static/css/main.8bf58a82.chunk.css.map",
-    "static/media/trellisly.png": "/www/static/media/trellisly.d63b29e8.png"
+    "main.css": "/static/css/main.8bf58a82.chunk.css",
+    "main.js": "/static/js/main.6667c826.chunk.js",
+    "main.js.map": "/static/js/main.6667c826.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.b41502e9.chunk.js": "/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7f6b0d106447c24a8ff961bd6779c5d7.js": "/precache-manifest.7f6b0d106447c24a8ff961bd6779c5d7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8bf58a82.chunk.css.map": "/static/css/main.8bf58a82.chunk.css.map",
+    "static/media/trellisly.png": "/static/media/trellisly.d63b29e8.png"
   }
 }
