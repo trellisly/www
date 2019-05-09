@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="Trellisly" />
         <p>
-          Growing the ridiculously easy to use account marketing platform.
+          Growing the ridiculously easy to use sales marketing platform.
         </p>
       </header>
     </div>
